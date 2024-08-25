@@ -1,9 +1,0 @@
-{
-    "name": "functions",
-    "version": "1.0.0",
-    "main": "submit-feedback.js",
-    "dependencies": {
-      "mongoose": "^5.10.11"
-    }
-  }
-  
