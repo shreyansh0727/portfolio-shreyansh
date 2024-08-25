@@ -1,3 +1,4 @@
 [build]
   publish = "public"
   functions = "functions"
+  package = "@netlify/plugin-functions-install-core"
